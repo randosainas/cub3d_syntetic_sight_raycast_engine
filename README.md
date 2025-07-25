@@ -1,4 +1,4 @@
-A 42 School project implementing a 3D rendering engine using raycasting. The goal is to simulate a "vision system" for a program running in a continuous loop, interpreting a 2D map into a 3D first-person view in real time.
+A 42 project implementing a 3D rendering engine using raycasting. The goal is to simulate a "vision system" for a program running in a continuous loop, interpreting a 2D map into a 3D first-person view in real time.
 
 🚀 Features
 Real-time rendering using raycasting
